@@ -176,3 +176,9 @@ print(index)
 
 format_val = "hello {}"
 print(format_val.format("Suhas"))
+
+print(greeting.upper())
+print(greeting.lower())
+
+words = greeting.split()
+print(words)
